@@ -1,19 +1,3 @@
-# C - More pointers, arrays and strings
-
-In this project, I continued to practice using pointers, arrays and strings in C.
-
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
-## Helper File :raised_hands:
-
-* [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
-
-## Header File :file_folder:
-
-* [holberton.h](./holberton.h): Header file containing prototypes for all
-functions written in the project.
 
 | File                 | Prototype                                                      |
 | -------------------- | -------------------------------------------------------------- |
@@ -84,7 +68,7 @@ functions written in the project.
 
 * **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
   * [101-magic.c](./101-magic.c): C program that prints `a[2] = 98` using pointer magic.
-    * Completion of [this source code](https://github.com/holbertonschool/make_magic_happen/blob/master/magic.c).
+   
 
 * **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * [102-infinite_add.c](./102-infinite_add.c): C function that adds two numbers stored
