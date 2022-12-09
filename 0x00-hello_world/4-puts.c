@@ -3,6 +3,7 @@
 
 /**
 *main - Main function of my project
+*Return: Return 0
 */
 int main(void)
 {
