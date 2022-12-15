@@ -1,1 +1,1 @@
-the functions and loops projects for alx
+my commit of fonctions and loops project
