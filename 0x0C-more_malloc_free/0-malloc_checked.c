@@ -4,8 +4,10 @@
 /**
  * write a function that allocates memory using malloc
  *
+ * if the accolation is a lost return 98
+ * 
  * Returns a pointer to the allocated memory
- *
+ *@b:size of allocation
  * 
  *
  */
